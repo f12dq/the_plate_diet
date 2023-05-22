@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.56741a6e.css",
+    "main.js": "/static/js/main.7f72f10c.js",
+    "static/media/foodie_logo.svg": "/static/media/foodie_logo.0fa70da85daf8633d66d5dad4c415cad.svg",
+    "static/media/balance_diet.png": "/static/media/balance_diet.36984ad6e60ed915e95c.png",
+    "index.html": "/index.html",
+    "main.56741a6e.css.map": "/static/css/main.56741a6e.css.map",
+    "main.7f72f10c.js.map": "/static/js/main.7f72f10c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56741a6e.css",
+    "static/js/main.7f72f10c.js"
+  ]
+}
